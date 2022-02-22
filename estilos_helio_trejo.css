@@ -1,0 +1,22 @@
+nav>ul>li {
+    color: yellow;
+    list-style: none;
+    background-color: yellow;
+}
+
+
+main>article {
+    background-color: grey;
+    color: white;
+}
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+aside {
+    background-color: white;
+    color: black;
+}
